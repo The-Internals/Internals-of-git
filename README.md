@@ -2,7 +2,7 @@
 
 In this session, we will be exploring the internals of Git and understanding how it goes about efficiently versioning software.
 
-Watch it here: `YOUTUBE_LINK`
+Watch it here: https://youtube.com/watch?v=sLDDaPDXB8s
 
 ## Agenda
 
