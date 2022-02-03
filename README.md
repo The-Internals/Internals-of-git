@@ -27,16 +27,7 @@ The following questions will be answered in this session
 
 ## Resources
 
--   Main articles
-    -   [The `.git` directory](https://harshkapadia2.github.io/git_basics/#_the_git_directory)
-    -   [Git Objects](https://harshkapadia2.github.io/git_basics/#_git_objects)
--   git_basics
-    -   [PWA](https://harshkapadia2.github.io/git_basics)
-    -   [Google Play Store](https://play.google.com/store/apps/details?id=com.harsh_kapadia.git_basics)
+-   [Git Internals](https://git.harshkapadia.me)
 -   [Git Graph](https://harshkapadia2.github.io/git-graph)
--   Further reading
-    -   [Git Deep](https://harshkapadia2.github.io/git_basics/#_git_deep)
-    -   https://github.com/HarshKapadia2/git_basics/issues/93
-    -   https://github.com/HarshKapadia2/git_basics/issues/81
--   Harsh Kapadia (speaker): https://links.harshkapadia.me
--   [Up to date details and resources.](https://talks.harshkapadia.me/git_internals)
+-   [Talk details and resources](https://talks.harshkapadia.me/git_internals)
+-   Speaker: https://links.harshkapadia.me
